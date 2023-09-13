@@ -1,0 +1,3 @@
+Monitors only the uplink interfaces like ae, xe and vlan interfaces like irb
+Tweaked to store less history and trend data
+Interval has been increased to avoid more traffic and load on the switches
